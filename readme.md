@@ -1,4 +1,6 @@
 # Experiencia 18 - Actividad Presencial II
+# Link a Trello: https://trello.com/b/KZMPx1HS/zamiz-tobar-desaf%C3%ADo-proyecto-final
+
 ## SCRUM - Agilidad
 
 El objetivo de esta actividad es la creación de un tablero en Trello con las historias de usuario de tu proyecto que presentaras al final del bootcamp.
