@@ -1,5 +1,5 @@
 # Experiencia 18 - Actividad Presencial II
-# Link a Trello: https://trello.com/b/KZMPx1HS/zamiz-tobar-desaf%C3%ADo-proyecto-final
+# [Link a Trello](https://trello.com/b/KZMPx1HS/zamiz-tobar-desaf%C3%ADo-proyecto-final)
 
 ## SCRUM - Agilidad
 
